@@ -4,6 +4,6 @@
 # [Line專人服務](https://line.me/R/ti/p/%40019arusm)
 # [谷歌表單———漸進式的快速反饋](https://www.tcfsh312.tk/current/feedback)
 # [團隊 Telegram](https://t.me/+RT3U5bUJqOo4YzZl)
-# [本專案 Telegram](https://t.me/@tcfsh8312)
+# [本專案 Telegram](https://t.me/tcfsh8312)
 # [贊助團隊](https://myhousesystem.soci.vip/donate)
 # [贊助專案](https://tcfsh8312.soci.vip/donate)
