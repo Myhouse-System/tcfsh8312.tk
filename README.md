@@ -5,5 +5,6 @@
 # [谷歌表單———漸進式的快速反饋](https://www.tcfsh312.tk/current/feedback)
 # [團隊 Telegram](https://t.me/+RT3U5bUJqOo4YzZl)
 # ~[本專案 Telegram](https://t.me/tcfsh8312)~ (已停止提供服務）
-# [贊助團隊](https://myhousesystem.soci.vip/donate)
-# [贊助專案](https://tcfsh8312.soci.vip/donate)
+[贊助團隊](https://myhouse.tctc.tk/pay/)
+<!--# [贊助團隊](https://myhousesystem.soci.vip/donate)
+# [贊助專案](https://tcfsh8312.soci.vip/donate)-->
